@@ -63,7 +63,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 ### ECCV 2018
 
-[1] Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro, Image Inpainting for Irregular Holes Using Partial Convolutions, ECCV, 2018. [[paper]](https://arxiv.org/abs/1804.07723) [[project]](http://masc.cs.gmu.edu/wiki/partialconv)
+[1] Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro, Image Inpainting for Irregular Holes Using Partial Convolutions, ECCV, 2018. [[paper]](https://arxiv.org/abs/1804.07723) [[code]](https://github.com/Jasonnor/PConv-Keras-Food) [[project]](http://masc.cs.gmu.edu/wiki/partialconv)
 
 [2] Yuhang Song, Chao Yang, Zhe Lin, Xiaofeng Liu, Qin Huang, Hao Li, C.-C. Jay Kuo, Contextual-based Image Inpainting: Infer, Match, and Translate, ECCV 2018, [[paper]](https://arxiv.org/abs/1711.08590)
 
@@ -125,6 +125,11 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [3] Wei Xiong, Jiahui Yu, Zhe Lin, Jimei Yang, Xin Lu, Connelly Barnes, and Jiebo Luo. Foreground-aware Image Inpainting. CVPR 2019. [[paper]](https://arxiv.org/abs/1901.05945)
 
+## Course Assignments: 
+
+[1] Zhuang Zijun. Pytorch-image-inpainting-using-mixed-convolution [[project]](https://github.com/zzj0311/pytorch-image-inpainting-using-mixed-convolution)
+
+[2]
 # Reference:
 
 [1] Image Inpainting: Humans vs. AI [[Survey blog]](https://github.com/1900zyh/Awesome-Image-Inpainting)
