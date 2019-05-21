@@ -4,9 +4,9 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 ## Image-Inpainting
 
-[1]	Deep_image_prior: Deep Image Prior. [[paper]] (https://arxiv.org/abs/1711.10925) [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
+[1]	Deep_image_prior: Deep Image Prior. [[paper]](https://arxiv.org/abs/1711.10925)                                    [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
 
-[2]	Generative_inpainting_release: Generative Image Inpainting With Contextual Attention [[paper]] (https://arxiv.org/abs/1801.07892) [[code]] (https://github.com/JiahuiYu/generative_inpainting)
+[2]	Generative_inpainting_release: Generative Image Inpainting With Contextual Attention [[paper]](https://arxiv.org/abs/1801.07892) [[code]](https://github.com/JiahuiYu/generative_inpainting)
 
 
 ## Early methods (Non Learning Based)
