@@ -127,9 +127,9 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 # Reference:
 
-[1] Image Inpainting: Humans vs. AI [[Survey blog]] (https://github.com/1900zyh/Awesome-Image-Inpainting)
+[1] Image Inpainting: Humans vs. AI [[Survey blog]](https://github.com/1900zyh/Awesome-Image-Inpainting)
 
-[2] Awesome-Image-Inpainting [[GitHub topics]] (https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc) 
+[2] Awesome-Image-Inpainting [[GitHub topics]](https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc) 
 
 
 
