@@ -1,11 +1,12 @@
- A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
+# Papers-on-Image-Inpainting
 
-Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inpainting/pulls) to add papers.
+Image inpainting is the process of reconstructing missing parts of an image so that observers are unable to tell that these regions have undergone restoration. This technique is often used to remove unwanted objects from an image or to restore damaged portions of old photos. The figures below show example image-inpainting results.
 
-![teaser](https://github.com/pathak22/context-encoder/blob/master/images/teaser.jpg "Sample inpainting results on held-out images")
+## Image-Inpainting
 
+[1]	Deep_image_prior: Deep Image Prior. [[Paper]] (https://arxiv.org/abs/1711.10925) [[Code]](https://github.com/DmitryUlyanov/deep-image-prior)
 
-
+[2]	Generative_inpainting_release: Generative Image Inpainting With Contextual Attention [[Paper]] (https://arxiv.org/abs/1801.07892) [[Code]] (https://github.com/JiahuiYu/generative_inpainting)
 
 
 ## Early methods (Non Learning Based)
@@ -124,7 +125,8 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 
 [3] Wei Xiong, Jiahui Yu, Zhe Lin, Jimei Yang, Xin Lu, Connelly Barnes, and Jiebo Luo. Foreground-aware Image Inpainting. CVPR 2019. [[paper]](https://arxiv.org/abs/1901.05945)
 
-### Reference:
+# Reference:
+
 [1] Image Inpainting: Humans vs. AI [[Survey blog]] (https://github.com/1900zyh/Awesome-Image-Inpainting)
 
 [2] Awesome-Image-Inpainting [[GitHub topics]] (https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc) 
