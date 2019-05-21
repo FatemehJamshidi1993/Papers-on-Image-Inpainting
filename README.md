@@ -129,7 +129,6 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [1] Zhuang Zijun. Pytorch-image-inpainting-using-mixed-convolution [[project]](https://github.com/zzj0311/pytorch-image-inpainting-using-mixed-convolution)
 
-[2]
 # Reference:
 
 [1] Image Inpainting: Humans vs. AI [[Survey blog]](https://github.com/1900zyh/Awesome-Image-Inpainting)
