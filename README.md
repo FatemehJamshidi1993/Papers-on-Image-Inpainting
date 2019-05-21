@@ -131,6 +131,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 ## Course Assignments: 
 
 [1] Zhuang Zijun. Pytorch-image-inpainting-using-mixed-convolution.  [[project]](https://github.com/zzj0311/pytorch-image-inpainting-using-mixed-convolution)
+
 [2]  Abhinav Gupta, Suyash Shukla, Vaishnav S. Menon. An Efficient Segmentation Based Pipeline For Image Inpainting. [[project]](https://github.com/abhigupta768/inpainting-pipeline)
 
 
