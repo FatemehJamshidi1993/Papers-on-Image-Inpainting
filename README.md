@@ -16,6 +16,12 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [2]	Generative_inpainting_release: Generative Image Inpainting With Contextual Attention [[paper]](https://arxiv.org/abs/1801.07892) [[code]](https://github.com/JiahuiYu/generative_inpainting)
 
+[3] W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang. Deeplaplacian pyramid networks for fast and accurate superresolution. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), July 2017. [[project]](http://vllab.ucmerced.edu/wlai24/LapSRN/)
+
+[4] C. Ledig, L. Theis, F. Huszar, J. Caballero, A. Cunningham, A. Acosta, A. Aitken, A. Tejani, J. Totz, Z. Wang, and
+W. Shi. Photo-realistic single image super-resolution using a generative adversarial network. In The IEEE Conference
+on Computer Vision and Pattern Recognition (CVPR), July 2017.
+
 
 ## Early methods (Non Learning Based)
 [1] Marcelo Bertalmio and Guillermo Sapiro, Vicent Caselles and Coloma Ballester, Image Inpainting, SIGGRAPH, 2000. [[paper]](http://www.dtic.upf.edu/~mbertalmio/bertalmi.pdf)  
