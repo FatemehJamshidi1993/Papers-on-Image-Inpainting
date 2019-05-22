@@ -6,8 +6,8 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 | Paper-Name                                             | Method                         | Dataset       | Code      |      
 | :---                                                   |     :---:                      |    :---:      |  ---:     |
-|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| Deep convolutional networks    | git status    |           |
-| [[Generative_inpainting_release]](https://arxiv.org/abs/1801.07892)| deep generative model| Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)     | git diff  |           
+|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| Deep convolutional networks    |     |  [[code]](https://github.com/DmitryUlyanov/deep-image-prior)         |
+| [[Generative_inpainting_release]](https://arxiv.org/abs/1801.07892)| deep generative model| Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)     | [[code]](https://github.com/JiahuiYu/generative_inpainting)  |           
 
 
 ## Image-Inpainting
