@@ -20,7 +20,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [4] C. Ledig, L. Theis, F. Huszar, J. Caballero, A. Cunningham, A. Acosta, A. Aitken, A. Tejani, J. Totz, Z. Wang, and
 W. Shi. Photo-realistic single image super-resolution using a generative adversarial network. In The IEEE Conference
-on Computer Vision and Pattern Recognition (CVPR), July 2017. [[paper]](https://arxiv.org/abs/1609.04802)
+on Computer Vision and Pattern Recognition (CVPR), July 2017. [[paper]](https://arxiv.org/abs/1609.04802) [[code]](https://github.com/tensorlayer/srgan)
 
 
 ## Early methods (Non Learning Based)
