@@ -2,6 +2,14 @@
 
 Image inpainting is the process of reconstructing missing parts of an image so that observers are unable to tell that these regions have undergone restoration. This technique is often used to remove unwanted objects from an image or to restore damaged portions of old photos. The figures below show example image-inpainting results.
 
+# Categories base on the Method, and Dataset (faces vs ImageNet)
+
+| Paper-Name                                             | Method         | Dataset       | Code      |
+| :---                                                   |     :---:      |    :---:      |  ---:     |
+|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| git status     | git status    |           |
+| git diff                                               | git diff       | git diff      |           |
+
+
 ## Image-Inpainting
 
 [1]	Deep_image_prior: Deep Image Prior. [[paper]](https://arxiv.org/abs/1711.10925)                                    [[code]](https://github.com/DmitryUlyanov/deep-image-prior)
@@ -134,10 +142,6 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [2]  Abhinav Gupta, Suyash Shukla, Vaishnav S. Menon. An Efficient Segmentation Based Pipeline For Image Inpainting. [[project]](https://github.com/abhigupta768/inpainting-pipeline)
 
-| Paper-Name         | Method         | Dataset       | Code      |
-| :---               |     :---:      |    :---:      |  ---:     |
-|  Deep_image_prior  | git status     | git status    |           |
-| git diff           | git diff       | git diff      |           |
 
 
 # Reference:
