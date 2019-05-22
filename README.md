@@ -4,9 +4,9 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 # Categories base on the Method, and Dataset (faces vs ImageNet)
 
-| Paper-Name                                             | Method         | Dataset       | Code      |
-| :---                                                   |     :---:      |    :---:      |  ---:     |
-|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| git status     | git status    |           |
+| Paper-Name                                             | Method                         | Dataset       | Code      |      
+| :---                                                   |     :---:                      |    :---:      |  ---:     |
+|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| deep convolutional networks    | git status    |           |
 | git diff                                               | git diff       | git diff      |           |
 
 
