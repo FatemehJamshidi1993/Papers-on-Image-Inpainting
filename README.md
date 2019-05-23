@@ -1,4 +1,4 @@
-This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [[Image Inpainting]](https://github.com/geekyutao/Image-Inpainting). 
+This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting) and @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting). 
 
 # Papers-on-Image-Inpainting
 
