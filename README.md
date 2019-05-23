@@ -11,7 +11,8 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 |  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| Deep convolutional networks (fitting a randomly-initialized ConvNet to corrupted images)   |  ImageNet ISLVRC   |  [[code]](https://github.com/DmitryUlyanov/deep-image-prior)         | 
 | [[Generative_inpainting_release]](https://arxiv.org/abs/1801.07892)| feedforward, fully convolutional neural network (including inpainting network enhancements, global and local WGANs and spatially discounted reconstruction loss to improve the training stability)| Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)     | [[code]](https://github.com/JiahuiYu/generative_inpainting)  |  
 |[[Deep laplacian pyramid networks for fast and accurate superresolution]](https://arxiv.org/abs/1704.03915)|deep convolutional network (Within a Laplacian pyramid framework for fast and accurate single-image super-resolution)|bench_mark dataset|[[code]](https://github.com/phoenix104104/LapSRN)|
-|[[Photo-realistic single image super-resolution using a generative adversarial network]](https://arxiv.org/abs/1609.04802)| |buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[[code]](https://github.com/tensorlayer/srgan)|
+|[[Photo-realistic single image super-resolution using a generative adversarial network]](https://arxiv.org/abs/1609.04802)||||[[code]](https://github.com/tensorlayer/srgan)|
+|[[Pluralistic Image Completion]](https://arxiv.org/abs/1903.04227)|  | buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[[code]](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
 
 ## Image-Inpainting
 
