@@ -6,7 +6,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 | Paper-Name                                             | Method                         | Dataset       | Code      |      
 | :---                                                   |     :---:                      |    :---:      |  ---:     |
-|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| Deep convolutional networks (fitting a randomly-initialized ConvNet to corrupted images)   |  trained for classification on ImageNet ISLVRC   |  [[code]](https://github.com/DmitryUlyanov/deep-image-prior)         | 
+|  [[Deep_image_prior]](https://arxiv.org/abs/1711.10925)| Deep convolutional networks (fitting a randomly-initialized ConvNet to corrupted images)   |  ImageNet ISLVRC   |  [[code]](https://github.com/DmitryUlyanov/deep-image-prior)         | 
 | [[Generative_inpainting_release]](https://arxiv.org/abs/1801.07892)| Fully convolutional neural network| Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)     | [[code]](https://github.com/JiahuiYu/generative_inpainting)  |           
 
 
