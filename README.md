@@ -13,6 +13,13 @@ Image inpainting is the process of reconstructing missing parts of an image so t
      * A.1.1.2. Nonlinear isotropic
      * A.1.1.3. Anisotropic Diffusion
    * A.1.2. Convolution Based
+   
+ Year|Proceeding|Title|dataset|code
+  --|:--:|:--:|:--:|--
+   2018| |[Deep_image_prior](https://arxiv.org/abs/1711.10925)|ImageNet ISLVRC|[code](https://github.com/DmitryUlyanov/deep-image-prior)          
+ 2018 | |[Generative_inpainting_release](https://arxiv.org/abs/1801.07892)|Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)|[code](https://github.com/JiahuiYu/generative_inpainting)    
+ 2018||[Deep laplacian pyramid networks for fast and accurate superresolution](https://arxiv.org/abs/1704.03915)|bench_mark datasets|[code](https://github.com/phoenix104104/LapSRN)
+
    * A.1.3. Wavelet Based
   ### A.2. Texture Based
    * A.2.1. Statistical Based
