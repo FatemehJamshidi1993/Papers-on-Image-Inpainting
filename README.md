@@ -1,4 +1,4 @@
-This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting), @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting) and (https://paperswithcode.com/task/image-inpainting).
+This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting), @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting), (https://paperswithcode.com/task/image-inpainting), and [Google Scholar](https://scholar.google.com/scholar?q=Inpainting+/+Image+completion+surveys&hl=en&as_sdt=0,1&as_vis=1).
 
 # Papers-on-Image-Inpainting
 
