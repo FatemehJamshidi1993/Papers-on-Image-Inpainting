@@ -26,6 +26,11 @@ Image inpainting is the process of reconstructing missing parts of an image so t
    * A.2.1. Statistical Based
    * A.2.2. Pixel Based
    * A.2.3. Patch Based
+    Year|Proceeding|Title|dataset|code
+--|:--:|:--:|:--:|--
+   2003|TOG 2003|[Fragment-based image completion](http://delivery.acm.org/10.1145/890000/882267/p303-drori.pdf?ip=222.195.92.10&id=882267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553430113_8d3cc7f5adde2fb3894043de791d9150) | |
+2004|TIP 2004|[**Region Filling and Object Removal by Exemplar-Based Image Inpainting**](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_tip2004.pdf)||
+2005|SIGGRAPH 2005|[Image Completion with Structure Propagation](http://jiansun.org/papers/ImageCompletion_SIGGRAPH05.pdf)|Patch-based| |
   ### A.3 Hybrid Based
    * A.3.1. Exemplar-based
      * A.3.1.1. Greedy Optimization
