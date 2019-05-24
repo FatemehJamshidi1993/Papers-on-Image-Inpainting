@@ -74,6 +74,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 2012|TOG 2012|[Combining inconsistent images using patch-based synthesis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)||
 2014|TOG 2014|[**Image completion using Planar structure guidance**](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)||
 2017|CVPR|[**High-resolution image inpainting using multi-scale neural patch synthesis**](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf)||[code](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)|
+2018|arXiv:1803.07422|[Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/pdf/1803.07422.pdf)| |[code](https://github.com/nashory/pggan-pytorch)|
 2019|arXiv:1903.10885 |[Learning Quadrangulated Patches For 3D Shape Processing](https://arxiv.org/pdf/1903.10885.pdf)|||
   ### A.3 Hybrid Based
    * A.3.1. Exemplar-based
@@ -142,7 +143,6 @@ Year|Proceeding|Title|Comment
 2019|CVPR 2019|Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[pdf]](https://arxiv.org/pdf/1904.07475.pdf) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) |
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
-2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
 2018|arXiv:1811.03721|Learning Energy Based Inpainting for Optical Flow [[pdf]](https://arxiv.org/pdf/1811.03721.pdf)|
 2018|arXiv:1811.07104|On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs [[pdf]](https://arxiv.org/pdf/1811.07104.pdf)|
 2018|arXiv:1811.09012|Multi-View Inpainting for RGB-D Sequence [[pdf]](https://arxiv.org/pdf/1811.09012.pdf)|
