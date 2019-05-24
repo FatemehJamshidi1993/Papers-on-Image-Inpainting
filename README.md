@@ -50,6 +50,8 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 W. Shi. Photo-realistic single image super-resolution using a generative adversarial network. In The IEEE Conference
 on Computer Vision and Pattern Recognition (CVPR), July 2017. [[paper]](https://arxiv.org/abs/1609.04802) [[code]](https://github.com/tensorlayer/srgan)
 
+[5] Connelly Barnes, Eli Shechtman, Adam Finkelstein, Dan B Goldman . PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing. SIGGRAPH 28(3), August 2009 [[paper]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)
+
 
 ## Early methods (Non Learning Based)
 [1] Marcelo Bertalmio and Guillermo Sapiro, Vicent Caselles and Coloma Ballester, Image Inpainting, SIGGRAPH, 2000. [[paper]](http://www.dtic.upf.edu/~mbertalmio/bertalmi.pdf)  
