@@ -22,6 +22,8 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 |[[Globally and Locally Consistent Image Completion]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)|GL (A generative model, which leverages both global and local discriminators for image completion.)||[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
 |[[Context encoders: Feature learning by inpainting]](https://arxiv.org/abs/1604.07379)|CA (A two-stage inpainting model,which leverages contextual attention at high-level features)|| [[code]](https://github.com/pathak22/context-encoder)
 |[[Image inpainting for irregular holes using partial convolutions]](https://arxiv.org/abs/1804.07723)|PConv (A generative model, which proposes a special convolution layer for filling irregular holes.)||[[code]](https://github.com/Jasonnor/PConv-Keras-Food)
+|[[Free-Form Image Inpainting with Gated Convolution]](https://arxiv.org/abs/1806.03589)| Gated convolution, A novel GAN loss, named SN-PatchGAN, by applying spectral-normalized discriminators on dense image patches.|Places2 [Zhou et al. 2017] and CelebA-HQ faces [Karras et al. 2017]| [[code]](http://jiahuiyu.com/deepfill2/)|
+
 # Surveys
 
 [1] S Ilan, A Shamir - Computer Graphics Forum, 2015 - A Survey on Data‐Driven Video Completion [[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12518)
