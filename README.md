@@ -8,15 +8,15 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 # Methods that can be tried out or has code
 
 ## Exemplar-based
-  ### Greedy Optimization
-  ### Global Optimization
+  ### *Greedy Optimization
+  ### *Global Optimization
 ## Sparsity-based
-  ### Fixed Basis
-  ### Adaptive Basis
+  ### *Fixed Basis
+  ### *Adaptive Basis
 ## PDE-based
-  ### Linear Isotropic
-  ### Nonlinear isotropic
-  ### Anisotropic Diffusion
+  ### *Linear Isotropic
+  ### *Nonlinear isotropic
+  ### *Anisotropic Diffusion
 ## Hybrid
 
 
