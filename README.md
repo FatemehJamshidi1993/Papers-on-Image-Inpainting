@@ -2,7 +2,11 @@ This repository is a paper list of image inpainting inspired by @1900zyh's repos
 
 # Papers-on-Image-Inpainting
 
+-------------------------------------
+
 Image inpainting is the process of reconstructing missing parts of an image so that observers are unable to tell that these regions have undergone restoration. This technique is often used to remove unwanted objects from an image or to restore damaged portions of old photos. The figures below show example image-inpainting results.
+
+-------------------------------------
 
 # Categories base on the Method, and Dataset (faces vs ImageNet)
 
