@@ -51,7 +51,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 W. Shi. Photo-realistic single image super-resolution using a generative adversarial network. In The IEEE Conference
 on Computer Vision and Pattern Recognition (CVPR), July 2017. [[paper]](https://arxiv.org/abs/1609.04802) [[code]](https://github.com/tensorlayer/srgan)
 
-[5] Connelly Barnes, Eli Shechtman, Adam Finkelstein, Dan B Goldman . PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing. SIGGRAPH 28(3), August 2009 [[paper]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)
+
 
 
 ## Early methods (Non Learning Based)
@@ -64,6 +64,8 @@ on Computer Vision and Pattern Recognition (CVPR), July 2017. [[paper]](https://
 [4] Jian Sun, Lu Yuan, Jiaya Jia, Heung-Yeung Shum, Image Completion with Structure Propagation, SIGGRAPH, 2005. [[paper]](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf)
 
 [5] J.-B Huang, S.B. kang, N. Ahuja, and j. Kopf. Image completion using Planar structure guidance. ACM Transactions on graohics (TOG). [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf) [[code]](https://github.com/jbhuang0604/StructCompletion) [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
+
+[6] Connelly Barnes, Eli Shechtman, Adam Finkelstein, Dan B Goldman . PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing. SIGGRAPH 28(3), August 2009 [[paper]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)
 
 
 
