@@ -6,18 +6,31 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 -------------------------------------
 
 # Methods that can be tried out or has code
+## A. Single Source Image
+  ### A.1. Structure-Based
+  #### A.1.1. PDE and Variational Based
+  ##### A.1.1.1. Linear Isotropic
+  ##### A.1.1.2. Nonlinear isotropic
+  ##### A.1.1.3. Anisotropic Diffusion
+  #### A.1.2. Convolution Based
+  #### A.1.3. Wavelet Based
+  ### A.2. Texture Based
+  #### A.2.1. Statistical Based
+  #### A.2.2. Pixel Based
+  #### A.2.3. Patch Based
+  ### A.3 Hybrid Based
+  #### A.3.1. Exemplar-based
+  ##### A.3.1.1. Greedy Optimization
+  ##### A.3.1.2. Global Optimization
+  ### A.3.2. Decomposition Based
+  ### A.4. Sparsity-based
+  #### B1. Fixed Basis
+  #### B2. Adaptive Basis
+## B. Multiple Source Images
 
-## A. Exemplar-based
-  ### A1. Greedy Optimization
-  ### A2. Global Optimization
-## B. Sparsity-based
-  ### B1. Fixed Basis
-  ### B2. Adaptive Basis
-## C. PDE-based
-  ### C1. Linear Isotropic
-  ### C2. Nonlinear isotropic
-  ### C3. Anisotropic Diffusion
-## Hybrid
+
+
+
 
 
 
