@@ -26,6 +26,11 @@ Image inpainting is the process of reconstructing missing parts of an image so t
   ### A.4. Sparsity-based
    * A.4.1. Fixed Basis
    * A.4.2 Adaptive Basis
+  ### diffusion based
+  Year|Proceeding|Title|code|dataset
+--|:--:|:--:|:--:|--
+2000|SIGGRAPH 2000|**Image Inpainting**  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf)  ||||
+2001|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)||||
 ## B. Multiple Source Images
 
 
