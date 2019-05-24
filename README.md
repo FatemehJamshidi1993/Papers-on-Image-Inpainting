@@ -21,6 +21,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 |[[PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)|Patch Match (A typical patch-based approach, which copies similar patches from the surroundings.)| |[[code]](http://www.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/patchmatch-2.1.zip)|
 |[[Globally and Locally Consistent Image Completion]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)|GL (A generative model, which leverages both global and local discriminators for image completion.)||[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
 |[[Context encoders: Feature learning by inpainting]](https://arxiv.org/abs/1604.07379)|CA (A two-stage inpainting model,which leverages contextual attention at high-level features)|| [[code]](https://github.com/pathak22/context-encoder)
+|Image inpainting for irregular holes using partial convolutions]](https://arxiv.org/abs/1804.07723)|PConv (A generative model, which proposes a special convolution layer for filling irregular holes.)||[[code]](https://github.com/Jasonnor/PConv-Keras-Food)
 # Surveys
 
 [1] S Ilan, A Shamir - Computer Graphics Forum, 2015 - A Survey on Data‐Driven Video Completion [[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12518)
