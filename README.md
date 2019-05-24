@@ -1,4 +1,4 @@
-This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting), @geekyutao's repository [Image Inpainting](https://github.com/geekyutao/Image-Inpainting), (https://paperswithcode.com/task/image-inpainting), and [Google Scholar](https://scholar.google.com/scholar?q=Inpainting+/+Image+completion+surveys&hl=en&as_sdt=0,1&as_vis=1).
+
 
 # Papers-on-Image-Inpainting
 
@@ -194,9 +194,17 @@ on Computer Vision and Pattern Recognition (CVPR), July 2017. [[paper]](https://
 
 # Reference:
 
-[1] Image Inpainting: Humans vs. AI [[Survey blog]](https://github.com/1900zyh/Awesome-Image-Inpainting)
+[1] Image Inpainting: Humans vs. AI [Survey blog](https://github.com/1900zyh/Awesome-Image-Inpainting)
 
-[2] Awesome-Image-Inpainting [[GitHub topics]](https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc) 
+[2] Awesome-Image-Inpainting [GitHub topics](https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc)
+
+[3] [Image Inapinting](https://github.com/geekyutao/Image-Inpainting)
+
+[4] [Google Scholar](https://scholar.google.com/scholar?q=Inpainting+/+Image+completion+surveys&hl=en&as_sdt=0,1&as_vis=1).
+
+[5] image-inpainting(https://paperswithcode.com/task/image-inpainting)
+
+
 
 
 
