@@ -4,6 +4,29 @@
 Image inpainting is the process of reconstructing missing parts of an image so that observers are unable to tell that these regions have undergone restoration. This technique is often used to remove unwanted objects from an image or to restore damaged portions of old photos. The figures below show example image-inpainting results.
 
 -------------------------------------
+# Surveys
+
+[1] S Ilan, A Shamir - Computer Graphics Forum, 2015 - A Survey on Data‐Driven Video Completion [[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12518)
+
+
+[2] C Barnes, FL Zhang - Computational Visual Media, 2017 - A survey of the state-of-the-art in patch-based synthesis [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs41095-016-0064-2.pdf)
+
+
+[3] MA Qureshi, M Deriche, A Beghdadi, A Amin - … Communication and Image …, 2017 - A critical survey of state-of-the-art image inpainting quality assessment metrics [[paper]](https://reader.elsevier.com/reader/sd/pii/S1047320317301803?token=38D9CCBDF4BDC594B38DE7C5840FDB9A1782ACB506A8F2884250FD79E404DD9C8D698619D5869FB47D056D874DCF9F90)
+
+
+[4] X Wu, K Xu, P Hall - Tsinghua Science and Technology, 2017 - A survey of image synthesis and editing with generative adversarial networks [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348)
+
+
+[5] S Zarif, I Faye, D Rohaya - International Journal of Pattern …, 2015 - Image completion: Survey and comparative study [[paper]](https://www.worldscientific.com/doi/pdf/10.1142/S0218001415540014)
+
+
+[6] A Beniwal, D Ahlawat - Image, 2016. Image Inpainting Algorithms: A Survey [[paper]](https://s3.amazonaws.com/academia.edu.documents/53488256/IJRRA-03-02-34.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1558713139&Signature=NCvgxY%2FS2y8zm7b9sWTnPqRHaus%3D&response-content-disposition=inline%3B%20filename%3DIJRRA-03-02-34.pdf.pdf)
+
+
+[7] V Lakshmanan, R Gomathi - 2017 Fourth International …, 2017. A survey on image completion techniques in remote sensing images [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8085669)
+
+-----------------------------------------------
 
 # Methods that can be tried out or has code
 ## A. Single Source Image
@@ -75,6 +98,19 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 2019|AAAI 2019|[Video Inpainting by Jointly Learning Temporal Structure and Spatial Details](https://arxiv.org/pdf/1806.08482.pdf)| |
 2019|arXiv:1904.10247 |[Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/pdf/1904.10247.pdf) ||
 
+----------------------------------------------
+
+# Reference:
+
+[1] Image Inpainting: Humans vs. AI [Survey blog](https://github.com/1900zyh/Awesome-Image-Inpainting)
+
+[2] Awesome-Image-Inpainting [GitHub topics](https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc)
+
+[3] [Image Inapinting](https://github.com/geekyutao/Image-Inpainting)
+
+[4] [Google Scholar](https://scholar.google.com/scholar?q=Inpainting+/+Image+completion+surveys&hl=en&as_sdt=0,1&as_vis=1).
+
+[5] [image-inpainting](https://paperswithcode.com/task/image-inpainting)
 
 
 
