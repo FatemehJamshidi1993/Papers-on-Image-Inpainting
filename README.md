@@ -14,12 +14,12 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 |[[Photo-realistic single image super-resolution using a generative adversarial network]](https://arxiv.org/abs/1609.04802)|generative adversarial network(The paper proposes  a perceptual loss function which consists of an adversarial loss and a content loss)| benchmark datasets Set5, Set14, and BSD100, the testing set of BSD300|[[code]](https://github.com/tensorlayer/srgan)|
 |[[Pluralistic Image Completion]](https://arxiv.org/abs/1903.04227)| generative adversarial network (The paper proposes a novel and probabilistically principled framework with two parallel paths. One is a reconstructive path that utilizes the only one given ground truth to get prior distribution of missing parts and rebuild the original image from this distribution. The other is a generative path for which the conditional prior is coupled to the distribution obtained in the reconstructive path. It also introduces a new short+long term attention layer that exploits distant relations among decoder and encoder features, improving appearance consistency.) | buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[[code]](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
 
-#Surveys
+# Surveys
 
 [1] A Survey on Data‐Driven Video Completion [[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12518)
 S Ilan, A Shamir - Computer Graphics Forum, 2015 - Wiley Online Library
 
-[2] A survey of the state-of-the-art in patch-based synthesis [[paper](https://link.springer.com/content/pdf/10.1007%2Fs41095-016-0064-2.pdf)
+[2] A survey of the state-of-the-art in patch-based synthesis [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs41095-016-0064-2.pdf)
 C Barnes, FL Zhang - Computational Visual Media, 2017 - Springer
 
 [3] A critical survey of state-of-the-art image inpainting quality assessment metrics [[paper]](https://reader.elsevier.com/reader/sd/pii/S1047320317301803?token=38D9CCBDF4BDC594B38DE7C5840FDB9A1782ACB506A8F2884250FD79E404DD9C8D698619D5869FB47D056D874DCF9F90)
