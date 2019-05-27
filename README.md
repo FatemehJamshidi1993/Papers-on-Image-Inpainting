@@ -101,7 +101,8 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 2019||[Photo-realistic single image super-resolution using a generative adversarial network](https://arxiv.org/abs/1609.04802)|benchmark datasets Set5, Set14, and BSD100, the testing set of BSD300|[code](https://github.com/tensorlayer/srgan)|
 2019|CVPR 2019|[Pluralistic Image Completion](https://arxiv.org/abs/1903.04227)| buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[code](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
 
-
+ ### A.7. Discrete Cosine Transform Based
+ ### A.8. Semi-Automatic and Fast Image Inpainting 
 
 
 
