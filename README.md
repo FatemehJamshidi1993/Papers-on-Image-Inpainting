@@ -26,7 +26,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [7] V Lakshmanan, R Gomathi - 2017 Fourth International …, 2017. A survey on image completion techniques in remote sensing images [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8085669)
 
-[8] Christine Guillemot, Olivier Le Meur . Image Inpainting : Overview and Recent Advances [pdf](file:///Users/jamshidifatemeh/Downloads/spm-inpainting-2014.pdf)
+[8] Christine Guillemot, Olivier Le Meur . Image Inpainting : Overview and Recent Advances [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6678248)
 
 -----------------------------------------------
 
