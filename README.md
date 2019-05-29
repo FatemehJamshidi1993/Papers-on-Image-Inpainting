@@ -6,7 +6,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 -------------------------------------
 # Surveys
 
-[1] image Inpainting : Overview and Recent Advances [pdf](https://www.researchgate.net/publication/260722824_Image_Inpainting_Overview_and_Recent_Advances)
+[1] Image Inpainting : Overview and Recent Advances [pdf](https://www.researchgate.net/publication/260722824_Image_Inpainting_Overview_and_Recent_Advances)
 
 
 
