@@ -8,6 +8,16 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 [1] Christine Guillemot, Olivier Le Meur . Image Inpainting : Overview and Recent Advances [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6678248)
 
+-------------------------------------
+# Image In-Painting Taxonomy
+
+![Image In-Painting Taxonomy](Taxonomy.png)
+
+-------------------------------------
+# Table of Image In-Painting Taxonomy
+
+![Table of Image In-Painting Taxonomy](Table_of_Taxonomy.png)
+
 
 
 # Reference:
