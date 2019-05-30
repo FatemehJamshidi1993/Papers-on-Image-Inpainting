@@ -19,7 +19,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 ![Table of Image In-Painting Taxonomy](Table_of_Taxonomy.png)
 
 -------------------------------------
-# Image Inpainting papers
+# Image Inpainting papers and codes that can be tried out
 ## A. Diffusion-based
 
      
