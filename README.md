@@ -66,6 +66,13 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 2019||[Photo-realistic single image super-resolution using a generative adversarial network](https://arxiv.org/abs/1609.04802)|benchmark datasets Set5, Set14, and BSD100, the testing set of BSD300|[code](https://github.com/tensorlayer/srgan)|
 2019|CVPR 2019|[Pluralistic Image Completion](https://arxiv.org/abs/1903.04227)| buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[code](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
 
+* denoising auto-encoder
+
+   Year|Proceeding|Title|dataset|code
+   --|:--:|:--:|:--|--
+   2012|NIPS 2012| [Image denoising and inpainting with deep neural networks](http://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)|||
+
+
  
 # Traditional Methods
 
