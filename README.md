@@ -9,7 +9,22 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 [1] Christine Guillemot, Olivier Le Meur . Image Inpainting : Overview and Recent Advances [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6678248)
 
 -------------------------------------
-# Image In-Painting Taxonomy
+# Automatic Inpainting Methods
+
+[1] Deep Image Prior (Ulyanov, Vedaldi, and Lempitsky, 2017(https://arxiv.org/abs/1711.10925))
+
+[2] Globally and Locally Consistent Image Completion (Iizuka, Simo-Serra, and Ishikawa, 2017(http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/))
+
+[3] High-Resolution Image Inpainting (Yang et al., 2017(https://arxiv.org/abs/1611.09969))
+
+[4] Shift-Net (Yan et al., 2018(https://arxiv.org/abs/1801.09392))
+
+[5] Generative Image Inpainting With Contextual Attention (Yu et al., 2018(https://arxiv.org/abs/1801.07892))
+
+[6] Image Inpainting for Irregular Holes Using Partial Convolutions (Liu et al., 2018(https://arxiv.org/abs/1804.07723))
+
+-------------------------------------
+# Traditional Image In-Painting Methods Taxonomy
 
 ![Image In-Painting Taxonomy](Taxonomy.png)
 
