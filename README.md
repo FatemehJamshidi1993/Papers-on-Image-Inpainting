@@ -11,17 +11,17 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 -------------------------------------
 # Automatic Inpainting Methods
 
-[1] Deep Image Prior (Ulyanov, Vedaldi, and Lempitsky, 2017(https://arxiv.org/abs/1711.10925))
+[1] Deep Image Prior ([Ulyanov, Vedaldi, and Lempitsky, 2017](https://arxiv.org/abs/1711.10925))
 
-[2] Globally and Locally Consistent Image Completion (Iizuka, Simo-Serra, and Ishikawa, 2017(http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/))
+[2] Globally and Locally Consistent Image Completion ([Iizuka, Simo-Serra, and Ishikawa, 2017](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/))
 
-[3] High-Resolution Image Inpainting (Yang et al., 2017(https://arxiv.org/abs/1611.09969))
+[3] High-Resolution Image Inpainting ([Yang et al., 2017](https://arxiv.org/abs/1611.09969))
 
-[4] Shift-Net (Yan et al., 2018(https://arxiv.org/abs/1801.09392))
+[4] Shift-Net ([Yan et al., 2018](https://arxiv.org/abs/1801.09392))
 
-[5] Generative Image Inpainting With Contextual Attention (Yu et al., 2018(https://arxiv.org/abs/1801.07892))
+[5] Generative Image Inpainting With Contextual Attention ([Yu et al., 2018](https://arxiv.org/abs/1801.07892))
 
-[6] Image Inpainting for Irregular Holes Using Partial Convolutions (Liu et al., 2018(https://arxiv.org/abs/1804.07723))
+[6] Image Inpainting for Irregular Holes Using Partial Convolutions ([Liu et al., 2018](https://arxiv.org/abs/1804.07723))
 
 -------------------------------------
 # Traditional Image In-Painting Methods Taxonomy
@@ -35,6 +35,40 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 -------------------------------------
 # Image Inpainting papers and codes that can be tried out
+
+# Deep Learning Methods
+
+## Deep Learning-base Methods
+
+* Convolution Based
+   
+ Year|Proceeding|Title|dataset|code
+  --|:--:|:--:|:--:|--
+  2014|NIPS 2014|[Deep Convolutional Neural Network for Image Deconvolution](http://papers.nips.cc/paper/5485-deep-convolutional-neural-network-for-image-deconvolution.pdf)|||
+  2015|NIPS|[Shepard Convolutional Neural Networks](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)||[code](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)|
+  2018|ECCV|[Image inpainting for irregular holes using partial convolutions](https://arxiv.org/abs/1804.07723)||[code](https://github.com/Jasonnor/PConv-Keras-Food)|
+  2018|Arxiv|[Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589)|Places2 [Zhou et al. 2017] and CelebA-HQ faces [Karras et al. 2017]| [code](http://jiahuiyu.com/deepfill2/)|
+   2018| |[Deep_image_prior](https://arxiv.org/abs/1711.10925)|ImageNet ISLVRC|[code](https://github.com/DmitryUlyanov/deep-image-prior)|         
+ 2018 | |[Generative_inpainting_release](https://arxiv.org/abs/1801.07892)|Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)|[code](https://github.com/JiahuiYu/generative_inpainting)|   
+ 2018||[Deep laplacian pyramid networks for fast and accurate superresolution](https://arxiv.org/abs/1704.03915)|bench_mark datasets|[code](https://github.com/phoenix104104/LapSRN)|
+ 
+* Generative Adversarial Networks
+ 
+ Year|Proceeding|Title|dataset|code
+--|:--:|:--:|:--:|--
+ 2017|SIGGRAPH 2017 |[Globally and Locally Consistent Image Completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)||[code](https://github.com/satoshiiizuka/siggraph2017_inpainting)|
+ 2018|CVPR|[Eye In-Painting With Exemplar Generative Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dolhansky_Eye_In-Painting_With_CVPR_2018_paper.pdf)||[code](https://github.com/bdol/exemplar_gans)|
+2018|CVPR|[UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_UV-GAN_Adversarial_Facial_CVPR_2018_paper.pdf)||
+2018|arXiv:1808.04432|[X-GANs: Image Reconstruction Made Easy for Extreme Cases](https://arxiv.org/pdf/1808.04432.pdf)|||
+2018|arXiv:1801.07632|[High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks](https://arxiv.org/pdf/1801.07632.pdf)|||
+2019|arXiv:1902.06838|[SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://arxiv.org/pdf/1902.06838.pdf)||[code](https://github.com/JoYoungjoo/SC-FEGAN)  |
+2019|arXiv:1902.09225|[Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation](https://arxiv.org/pdf/1902.09225.pdf)|||
+2019||[Photo-realistic single image super-resolution using a generative adversarial network](https://arxiv.org/abs/1609.04802)|benchmark datasets Set5, Set14, and BSD100, the testing set of BSD300|[code](https://github.com/tensorlayer/srgan)|
+2019|CVPR 2019|[Pluralistic Image Completion](https://arxiv.org/abs/1903.04227)| buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[code](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
+
+ 
+# Traditional Methods
+
 ## A. Diffusion-based
 
      
