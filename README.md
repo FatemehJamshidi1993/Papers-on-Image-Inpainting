@@ -78,6 +78,14 @@ Image inpainting is the process of reconstructing missing parts of an image so t
   Year|Proceeding|Title|dataset|code
    --|:--:|:--:|:--|--
    2014|GCPR 2014| [Mask-specific inpainting with deep neural networks](https://link.springer.com/chapter/10.1007/978-3-319-11752-2_43)|||
+   
+* Contextual-based
+
+* Point Cloud 
+
+  Year|Proceeding|Title|dataset|code
+   --|:--:|:--:|:--|--
+   2019|arXiv:1904.10795 |[Graph-based Inpainting for 3D Dynamic Point Clouds](https://arxiv.org/pdf/1904.10795.pdf)|||
 
  
 # Traditional Methods
