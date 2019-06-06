@@ -51,7 +51,8 @@ Image inpainting is the process of reconstructing missing parts of an image so t
  2018 | |[Generative_inpainting_release](https://arxiv.org/abs/1801.07892)|Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)|[code](https://github.com/JiahuiYu/generative_inpainting)|   
  2018||[Deep laplacian pyramid networks for fast and accurate superresolution](https://arxiv.org/abs/1704.03915)|bench_mark datasets|[code](https://github.com/phoenix104104/LapSRN)|
  2018|ECCV 2018|[Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)||[code](https://github.com/NVIDIA/partialconv)|
-
+2018|NIPS 2018|[Image Inpainting via Generative Multi-column Convolutional Neural Networks](https://arxiv.org/pdf/1810.08771.pdf)|| [code](https://github.com/shepnerd/inpainting_gmcnn)|
+2018|AISTATS 2019|[Probabilistic Semantic Inpainting with Pixel Constrained CNNs](https://arxiv.org/pdf/1810.03728.pdf)|||
  
  
 *  Generative Adversarial Networks
