@@ -38,9 +38,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
 # Deep Learning Methods
 
-## Deep Learning-base Methods
-
-* Convolution Based
+ * Convolution Based
    
  Year|Proceeding|Title|dataset|code
   --|:--:|:--:|:--:|--
@@ -55,7 +53,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 
  
  
-* Generative Adversarial Networks
+*  Generative Adversarial Networks
  
  Year|Proceeding|Title|dataset|code
 --|:--:|:--:|:--:|--
@@ -97,7 +95,13 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 2007|CSVT 2007|[Image Compression With Edge-Based Inpainting](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/inpainting_csvt_07.pdf)||
 
 ## B. Hybrid-based
-   ### * B.1 Patch-based
+   ### * B.1 Texture Synthesis
+   
+  Year|Proceeding|Title|dataset|code
+--|:--:|:--:|:--:|--
+   2016|SIGGRAPH 2016|[High-resolution multi-scale neural texture synthesis](https://wxs.ca/research/multiscale-neural-synthesis/Snelgrove-multiscale-texture-synthesis.pdf)|||
+## C. Examplar-based
+   ### * C.1 Patch-based
   Year|Proceeding|Title|dataset|code
 --|:--:|:--:|:--:|--
    2003|TOG 2003|[Fragment-based image completion](http://delivery.acm.org/10.1145/890000/882267/p303-drori.pdf?ip=222.195.92.10&id=882267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553430113_8d3cc7f5adde2fb3894043de791d9150) | |
