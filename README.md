@@ -46,11 +46,14 @@ Image inpainting is the process of reconstructing missing parts of an image so t
   --|:--:|:--:|:--:|--
   2014|NIPS 2014|[Deep Convolutional Neural Network for Image Deconvolution](http://papers.nips.cc/paper/5485-deep-convolutional-neural-network-for-image-deconvolution.pdf)|||
   2015|NIPS|[Shepard Convolutional Neural Networks](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf)||[code](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)|
+   2016|CVPR 2016|[**Context Encoders: Feature Learning by Inpainting**](https://arxiv.org/abs/1604.07379)||[code](https://github.com/pathak22/context-encoder)|
   2018|ECCV|[Image inpainting for irregular holes using partial convolutions](https://arxiv.org/abs/1804.07723)||[code](https://github.com/Jasonnor/PConv-Keras-Food)|
   2018|Arxiv|[Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589)|Places2 [Zhou et al. 2017] and CelebA-HQ faces [Karras et al. 2017]| [code](http://jiahuiyu.com/deepfill2/)|
    2018| |[Deep_image_prior](https://arxiv.org/abs/1711.10925)|ImageNet ISLVRC|[code](https://github.com/DmitryUlyanov/deep-image-prior)|         
  2018 | |[Generative_inpainting_release](https://arxiv.org/abs/1801.07892)|Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)|[code](https://github.com/JiahuiYu/generative_inpainting)|   
  2018||[Deep laplacian pyramid networks for fast and accurate superresolution](https://arxiv.org/abs/1704.03915)|bench_mark datasets|[code](https://github.com/phoenix104104/LapSRN)|
+
+ 
  
 * Generative Adversarial Networks
  
@@ -66,12 +69,17 @@ Image inpainting is the process of reconstructing missing parts of an image so t
 2019||[Photo-realistic single image super-resolution using a generative adversarial network](https://arxiv.org/abs/1609.04802)|benchmark datasets Set5, Set14, and BSD100, the testing set of BSD300|[code](https://github.com/tensorlayer/srgan)|
 2019|CVPR 2019|[Pluralistic Image Completion](https://arxiv.org/abs/1903.04227)| buildings (Paris), faces (CelebA-HQ), and natural images (ImageNet)|[code](https://github.com/lyndonzheng/Pluralistic-Inpainting)|
 
-* denoising auto-encoder
+* Denoising auto-encoder
 
    Year|Proceeding|Title|dataset|code
    --|:--:|:--:|:--|--
    2012|NIPS 2012| [Image denoising and inpainting with deep neural networks](http://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)|||
 
+* Mask-specific
+
+  Year|Proceeding|Title|dataset|code
+   --|:--:|:--:|:--|--
+   2014|GCPR 2014| [Mask-specific inpainting with deep neural networks](https://link.springer.com/chapter/10.1007/978-3-319-11752-2_43)|||
 
  
 # Traditional Methods
