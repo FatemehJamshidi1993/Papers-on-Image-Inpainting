@@ -50,6 +50,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
    2018| |[Deep_image_prior](https://arxiv.org/abs/1711.10925)|ImageNet ISLVRC|[code](https://github.com/DmitryUlyanov/deep-image-prior)|         
  2018 | |[Generative_inpainting_release](https://arxiv.org/abs/1801.07892)|Faces (CelebA, CelebA-HQ), textures (DTD) and natural images (ImageNet, Places2)|[code](https://github.com/JiahuiYu/generative_inpainting)|   
  2018||[Deep laplacian pyramid networks for fast and accurate superresolution](https://arxiv.org/abs/1704.03915)|bench_mark datasets|[code](https://github.com/phoenix104104/LapSRN)|
+ 2018|ECCV 2018|[Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)||[code](https://github.com/NVIDIA/partialconv)|
 
  
  
@@ -85,6 +86,7 @@ Image inpainting is the process of reconstructing missing parts of an image so t
    --|:--:|:--:|:--|--
    2017|CVPR 2017|[**Semantic image inpainting with deep generative models**](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)|||
    2018|CVPR 2018|[**Generative Image Inpainting with Contextual Attention**](https://arxiv.org/abs/1801.07892)||[code](https://github.com/JiahuiYu/generative_inpainting)|
+   2018|ECCV 2018| [Contextual-based Image Inpainting: Infer, Match, and Translate](https://arxiv.org/pdf/1711.08590.pdf)|||
 
 * Point Cloud 
 
